@@ -1,0 +1,15 @@
+{
+  "firstname": "Rohit",
+  "lastname": "SAINI",
+  "title": "Software Developer",
+  "picture": "../assets/rohit-profile.jpg",
+  "location": "Haryana, India",
+  "email": "rohit1322saini@gmail.com",
+  "phone": "+91 8199889776",
+  "websites": [
+    { "url": "http://zingpixel.com", "icon": "../assets/website.svg" },
+    { "url": "https://github.com/rohitsaini81/", "icon": "../assets/github.svg" },
+    { "url": "https://www.linkedin.com/in/rohit-saini-4698901bb/", "icon": "../assets/linkedin.svg" }
+  ],
+  "summary": "Software developer building scalable web applications, RESTful APIs, and automation tools with expertise in Python, Spring Boot, and the MERN stack."
+}

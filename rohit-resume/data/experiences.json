@@ -1,0 +1,69 @@
+[
+  {
+    "company": "CodeNod",
+    "logo": "../assets/website.svg",
+    "year": "Mar 2025-present",
+    "title": "Software Developer",
+    "countries": "India",
+    "summary": "Building full-stack and AI-driven features using Python, Node.js, and modern JavaScript frameworks.",
+    "responsibilities": [
+      "Develop scalable backend services and REST APIs with Python and Node.js.",
+      "Integrate MySQL-backed services and maintain production-ready data workflows.",
+      "Build responsive interfaces with React, Tailwind CSS, and Remix.",
+      "Use Docker-based workflows to streamline development and deployment."
+    ]
+  },
+  {
+    "company": "Freelance",
+    "logo": "../assets/website.svg",
+    "year": "Dec 2023-present",
+    "title": "MERN Full-Stack Web Developer",
+    "countries": "India",
+    "summary": "Deliver full-stack web applications with the MERN stack for client projects.",
+    "responsibilities": [
+      "Build and deploy end-to-end features across MongoDB, Express.js, React, and Node.js.",
+      "Design responsive frontends with reusable components and Redux-based state management.",
+      "Create and maintain REST APIs for product and user flows.",
+      "Optimize app performance and scalability for production workloads."
+    ]
+  },
+  {
+    "company": "Coaching Center",
+    "logo": "../assets/website.svg",
+    "year": "Mar 2025-present",
+    "title": "Computer Science Teacher",
+    "countries": "India",
+    "summary": "Teach computer science and digital literacy to students new to computers.",
+    "responsibilities": [
+      "Explain foundational computer concepts in simple, practical lessons.",
+      "Design class exercises that improve confidence with digital tools.",
+      "Support students in understanding core CS problem-solving approaches."
+    ]
+  },
+  {
+    "company": "Independent Teaching",
+    "logo": "../assets/website.svg",
+    "year": "Jun 2024-present",
+    "title": "Computer Fundamentals Instructor",
+    "countries": "India",
+    "summary": "Provide instruction in computer fundamentals and advanced concepts.",
+    "responsibilities": [
+      "Prepare structured sessions from basics to advanced computer topics.",
+      "Mentor learners with different starting skill levels.",
+      "Track learner progress and adapt teaching material for clarity."
+    ]
+  },
+  {
+    "company": "Potato Cold Store",
+    "logo": "../assets/website.svg",
+    "year": "Feb 2024-Dec 2024",
+    "title": "Logistics Clerk",
+    "countries": "India",
+    "summary": "Managed records and logistics data entry operations for inventory handling.",
+    "responsibilities": [
+      "Maintain accurate logistics registers and daily inventory records.",
+      "Coordinate data updates for stock movement and storage operations.",
+      "Ensure record consistency to support reliable logistics reporting."
+    ]
+  }
+]

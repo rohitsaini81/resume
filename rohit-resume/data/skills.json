@@ -1,0 +1,60 @@
+[
+  {
+    "section": "General",
+    "skills": [
+      "System design and architecture",
+      "REST API development",
+      "Web scraping and automation",
+      "Cloud and container workflows",
+      "Linux and security fundamentals"
+    ]
+  },
+  {
+    "section": "Languages",
+    "skills": [
+      "Java",
+      "Node.js",
+      "JavaScript",
+      "Python"
+    ]
+  },
+  {
+    "section": "Frontend",
+    "skills": [
+      "React.js",
+      "React Native",
+      "Redux",
+      "Next.js",
+      "Tailwind CSS",
+      "Remix"
+    ]
+  },
+  {
+    "section": "Backend",
+    "skills": [
+      "Express.js",
+      "Spring Boot",
+      "Socket.IO"
+    ]
+  },
+  {
+    "section": "Databases",
+    "skills": [
+      "SQL",
+      "PostgreSQL",
+      "MongoDB",
+      "MySQL"
+    ]
+  },
+  {
+    "section": "Tools",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Git",
+      "Cursor AI",
+      "Codex",
+      "Claude Code"
+    ]
+  }
+]
