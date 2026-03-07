@@ -1,0 +1,32 @@
+[
+  {
+    "name": "E-Commerce Full-Stack Website",
+    "description": "Built with React.js, Redux, and Node.js. Users can add products to cart, view cart contents, and update quantities.",
+    "url": "https://micro-it-internship.onrender.com"
+  },
+  {
+    "name": "Web Scraping and Automation",
+    "description": "Built a flexible scraping and data extraction system with Node.js, Express, and Python requests, designed for easy site adaptation.",
+    "url": "https://github.com/rohitsaini81/"
+  },
+  {
+    "name": "Online Compiler Service",
+    "description": "Built a browser-based code compiler service using Node.js to compile and run programs directly in the web interface.",
+    "url": "https://online-java-compiler.onrender.com"
+  },
+  {
+    "name": "Real-Time Live Chat",
+    "description": "Built a real-time chat app with Socket.IO and Node.js including direct peer-to-peer file sharing for lower server load.",
+    "url": "https://whatsapp-chat-lo5f.onrender.com"
+  },
+  {
+    "name": "Video Streaming Platform",
+    "description": "Built with Next.js SSR and Spring Boot with PostgreSQL, plus analytics and SEO improvements for better discoverability.",
+    "url": "https://github.com/rohitsaini81/"
+  },
+  {
+    "name": "SwipeMatch Dating App",
+    "description": "Built with MERN and Tailwind CSS featuring secure auth, swipe flows, real-time chat, and Redux state management.",
+    "url": "http://www.swipematch.online/"
+  }
+]

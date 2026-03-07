@@ -1,0 +1,23 @@
+[
+  {
+    "year": "2023",
+    "institution": "Shaheed Udham Singh College, Kurukshetra University",
+    "diploma": "BCA",
+    "location": "Kurukshetra, India",
+    "extra": "Score: 70%"
+  },
+  {
+    "year": "2020",
+    "institution": "Govt. Senior Sec. School",
+    "diploma": "Class XII",
+    "location": "Karnal, India",
+    "extra": "Score: 63%"
+  },
+  {
+    "year": "2018",
+    "institution": "Govt. Senior Sec. School",
+    "diploma": "Class X",
+    "location": "Karnal, India",
+    "extra": "Score: 50%"
+  }
+]
