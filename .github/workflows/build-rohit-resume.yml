@@ -1,0 +1,32 @@
+name: Build Rohit Resume
+
+on:
+  push:
+    paths:
+      - "rohit-resume/**"
+      - ".github/workflows/build-rohit-resume.yml"
+  pull_request:
+    paths:
+      - "rohit-resume/**"
+      - ".github/workflows/build-rohit-resume.yml"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Typst
+        uses: typst-community/setup-typst@v3
+
+      - name: Build rohit-resume/main.pdf
+        run: typst compile rohit-resume/main.typ rohit-resume/main.pdf
+
+      - name: Upload resume artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: rohit-resume-main-pdf
+          path: rohit-resume/main.pdf
